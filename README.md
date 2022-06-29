@@ -1,2 +1,4 @@
 # kg-metadata
-Specification of the KG metadata
+A  metadata profile for Knowledge Graphs.
+
+
